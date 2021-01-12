@@ -1,5 +1,9 @@
-# Dynamic precision iterative refinement v1.0: JETCAS18
+# Dynamic precision iterative refinement v1.0
 Latest Update: 25 September 2020
+
+C Codes for Iterative Refinement Using Dynamic Precision out of Single, Double, and Double-Double Precision.  
+
+Reference: J. Lee, H. Vandierendonck, M. Arif, G. D. Peterson and D. S. Nikolopoulos, "Energy-Efficient Iterative Refinement Using Dynamic Precision," in IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 8, no. 4, pp. 722-735, Dec. 2018, doi: 10.1109/JETCAS.2018.2850665. 
 
 # Description:
 dirdf.h file (Dynamic Precision Iterative Refinement for Double Precision Accuracy Forward-Error) contains dirdf() function which takes either single or double LUPP approximator and produces double precision solution accuracy.
